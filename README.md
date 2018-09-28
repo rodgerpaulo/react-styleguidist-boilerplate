@@ -53,15 +53,16 @@ Run locally:
 
 ```sh
 npm run styleguidist
-#or with yarn
+# or with yarn
 yarn styleguidist
+# navigate to http://localhost:6060/
 ```
 
 Build styleguide:
 
 ```sh
 npm run styleguidist-build
-#or with yarn
+# or with yarn
 yarn styleguidist-build
 ```
 
