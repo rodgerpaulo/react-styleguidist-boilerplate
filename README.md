@@ -1,4 +1,4 @@
-# Jussi Front End Base
+# React Styleguidist Boilerplate
 
 A base structure for projects made with React
 
