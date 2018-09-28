@@ -1,7 +1,12 @@
 {
-  "name": "jussi-front-base",
+  "name": "react-styleguidist-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "Roger Ramos",
+    "email": "rodgerpaulo@hotmail.com",
+    "url": "https://twitter.com/rodgerpaulo"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
