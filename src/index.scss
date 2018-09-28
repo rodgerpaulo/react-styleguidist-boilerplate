@@ -1,0 +1,12 @@
+// core items
+@import 'styles/core/variables';
+@import 'styles/core/functions';
+@import 'styles/core/mixins';
+@import 'styles/core/media-queries';
+@import 'styles/core/reset';
+@import 'styles/core/utilities';
+@import 'styles/core/typography';
+
+// pages and components
+@import 'styles/screens/App';
+@import 'styles/components/UI/button';
