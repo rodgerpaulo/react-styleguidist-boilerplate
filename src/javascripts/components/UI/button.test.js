@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './button';
+import Button from 'javascripts/components/UI/Button';
 import renderer from 'react-test-renderer';
 
 test('Render Button with rounded border', () => {
